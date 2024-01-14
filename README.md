@@ -7,8 +7,7 @@ I used a Convolutional Neural Network (CNN) for gender classification using Tens
 
 The data augmentation techniques, such as random flips, rotations, and zooms, enhance the model's ability to generalize by exposing it to varied training samples.
 
-After training the model for 10 epochs, it achieves an accuracy of 94.29% on the training set, indicating its effectiveness in learning from the training data. Additionally, the model performs well on unseen data, achieving a validation accuracy of 96.27%, suggesting good generalization to new, unseen images.
-
+After training the model for 10 epochs, it achieves an accuracy of 94.29% on the training set, indicating its effectiveness in learning from the training data. Additionally, the model performs well on unseen data, achieving a validation accuracy of 96.27%.
 # Model Architecture
 ![Architecture Screenshot](https://github.com/ChayanBhansali/Gender_Classification/blob/main/architecture.png)
 # Accuracy
