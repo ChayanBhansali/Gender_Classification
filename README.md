@@ -3,7 +3,7 @@
 
 
 
-I used a Convolutional Neural Network (CNN) for gender classification using TensorFlow and Keras. CNNs are particularly effective for image-based tasks due to their ability to capture hierarchical features. The chosen architecture consists of convolutional layers, max pooling, and dense layers with dropout for regularization.
+I used Convolutional Neural Network (CNN) for gender classification using TensorFlow and Keras. CNNs are particularly effective for image-based tasks due to their ability to capture hierarchical features. The chosen architecture consists of convolutional layers, max pooling, and dense layers with dropout for regularization.
 
 The data augmentation techniques, such as random flips, rotations, and zooms, enhance the model's ability to generalize by exposing it to varied training samples.
 
